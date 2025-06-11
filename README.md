@@ -43,9 +43,9 @@ doc5: Los sumerios inventaron la escritura cuneiforme y fundaron las primeras ci
 
 #### Ejemplos de consulta:
 
-* `egipcios AND pirámides` → 📄 `{'doc1'}`
-* `escritura OR astrónomos` → 📄 `{'doc1', 'doc3', 'doc5'}`
-* `romana NOT griegos` → 📄 `{'doc2'}`
+* `egipcios AND pirámides` →  `{'doc1'}`
+* `escritura OR astrónomos` →  `{'doc1', 'doc3', 'doc5'}`
+* `romana NOT griegos` →  `{'doc2'}`
 
 ---
 
@@ -61,13 +61,13 @@ doc5: El futuro de la IA está en el aprendizaje profundo.
 
 #### Ejemplos de consulta:
 
-* `inteligencia AND artificial` → 📄 `{'doc1', 'doc2'}`
-* `redes OR aprendizaje` → 📄 `{'doc2', 'doc3', 'doc4', 'doc5'}`
-* `inteligencia NOT automático` → 📄 `{'doc1'}`
+* `inteligencia AND artificial` →  `{'doc1', 'doc2'}`
+* `redes OR aprendizaje` →  `{'doc2', 'doc3', 'doc4', 'doc5'}`
+* `inteligencia NOT automático` →  `{'doc1'}`
 
 ---
 
-## 🛠️ Estructura del Código
+## Estructura del Código
 
 1. **Importaciones**:
 
@@ -93,7 +93,7 @@ doc5: El futuro de la IA está en el aprendizaje profundo.
 
    * Selección de tema y ejecución de búsqueda.
 
-## ✅ Conclusión
+## Conclusión
 
 Este trabajo práctico permite aplicar conceptos de recuperación de información mediante consultas booleanas simples y eficientes. Se explora el preprocesamiento con NLTK y la búsqueda con Whoosh, abordando dos temáticas de interés: historia e inteligencia artificial. Se logra una comprensión práctica de cómo se construyen motores de búsqueda básicos y cómo se representa la información para ser consultada eficientemente.
 
