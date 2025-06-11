@@ -1,4 +1,4 @@
-Trabajo Práctico N.º 7 - Modelo de Claves Booleanas
+#Trabajo Práctico N.º 7 - Modelo de Claves Booleanas
 Nombre: Coral Tolazzi
 Materia: Procesamiento del Lenguaje Natural
 Tema: Recuperación de la Información
