@@ -49,7 +49,7 @@ doc5: Los sumerios inventaron la escritura cuneiforme y fundaron las primeras ci
 
 ---
 
-### 🤖 Inteligencia Artificial
+### Inteligencia Artificial
 
 ```text
 doc1: La inteligencia artificial está revolucionando la tecnología.  
